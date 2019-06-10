@@ -1,0 +1,15 @@
+.jumbotron{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url('../img/jumbo-bg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+
+.img-icon{
+    height: 100px;
+    width: 110px;
+}
